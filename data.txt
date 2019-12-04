@@ -1,0 +1,33 @@
+test	[test]	"n. 测验，考查；测试；检验；化验
+v. 测验；化验，检查；试验，测试；考"	"His work is to test out new designs of cars before they are put on the market.
+他的工作是在新设计的汽车投入市场之前对它们进行检验。"
+defend	[dɪˈfend]	"vt. 辩护；防护
+vi. 保卫；防"	"Now, like him, they had to revere and defend it.
+现在，像伯德一样，他们也要尊重和维护它。"
+have	[həv; əv; hæv]	"vt. 有；让；拿；从事；允许
+aux. 已经
+n. (Have)人名；(芬)哈韦；(德)哈"	"I have something to talk with you.
+我有点儿事要和你谈一谈。"
+comment	[ˈkɒment]	"n. 评论；意见；批评；描述
+vt. 发表评论；发表意见
+vi. 为……作评语
+n. (Comment) （美、瑞、法）科门特 （人名"	"I appreciate your comment.
+我欣赏你的意见。"
+incorrect	[ˌɪnkəˈrekt]	"adj. 错误的，不正确的；不适当的；不真实"	"This argument sounds reasonable, but actually it's incorrect.
+这种论调貌似有理， 实际上是错误的。"
+act	[ækt]	"v. 行动；表现；起作用；扮演（角色）；担任；假装；代理
+n. 行为；假装；某种行为（或常规等）；法令；判决书；会议记录；（戏剧等的）幕；表演；演出团体
+abbr. 活跃的 (active)；演员 (actor)；实际的 (actual"	"They reprised the elaborate dance music in the last act.
+他们在最后一幕里重复演奏那首复杂的舞曲。"
+cliff	[klɪf]	"n. 悬崖；绝壁
+n. (Cliff)人名；(英)克利"	"Who would have expected that he could climb up that steep cliff?
+这么陡的峭壁, 谁知他竟爬上去了。"
+credit	[ˈkredɪt]	"n. 信用，信誉；[金融] 贷款；学分；信任；声望
+vt. 相信，信任；把…归给，归功于；赞"	"I didn't credit that absurd tale.
+我不相信那个荒谬绝伦的故事。"
+northwest	['nɔrθ'wɛst]	"n. 西北方；西北部
+adj. （风）来自西北的；在西北部的
+adv. 在西北，向西北，来自西北"	"In the northwest of China, long dry periods wasted the land.
+在中国西北，长期的干旱使土地荒废了。"
+partial	[ˈpɑːʃl]	"adj. 局部的；偏爱的；不公平"	"Partial maps can navigate you through some of the danger, but not all of it.
+局部地图可以指引您避开某些危险，但不是所有危险。"
