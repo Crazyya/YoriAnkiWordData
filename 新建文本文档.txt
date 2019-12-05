@@ -1,0 +1,740 @@
+1、家庭人员
+
+aunt	姨母；姨母 姑母；伯母；婶母
+brother	兄；弟
+cousin	堂（表）兄弟；堂（表）姐妹
+couple	夫妇
+dad（daddy）	爸爸
+daughter	女儿
+family	家；家庭；家人；亲属；家族
+father	爸爸；父亲
+grandchild	孙子/女，外孙子/孙女
+granddaughger	孙女，外孙女
+grandfather	祖父；外祖父
+grandma	（口）奶奶；外婆
+grandmother	祖母；外祖母
+grandpa	（口）爷爷；外公
+grandparent	祖父母；外祖父母
+grandson	孙子，外孙子
+granny	老奶奶
+husband	丈夫
+Mom(美Mum)	妈妈
+mother	母亲；妈妈
+parent	父母亲
+relation	关系；亲属关系
+sister	姐；妹
+son	儿子
+uncle	叔；伯；舅；姨夫；姑夫
+wife	（pl. wives）妻子
+
+2、职业职务
+
+
+boss	老板
+captain	船长，队长
+chairman/woman	主席
+coach	教练；
+cook	厨师
+dentist	牙医
+director	主管，负责人
+doctor	医生
+driver	驾驶员；司机
+engineer	工程师
+farmer	农民
+fisherman	渔民；渔夫（pl. fishermen）
+guard	看守，卫兵
+king	国王
+leader	领导者；指挥者
+manager	经理，管理人
+monitor	（班级内的）班长，纠察生；
+nurse	护士，保育员
+officer	军官；公务员，官员；警察，警官
+pilot	飞行员
+police	巡警；警察
+policeman(policewoman)	警察
+postman	邮递员
+president	总统
+pupil	(小）学生
+queen	女王；王后
+scientist	科学家
+servant	佣人，仆人
+secretary	秘书
+soldier	士兵，战士
+speaker	演讲人；演说家
+student	学生
+teacher	教师，教员
+worker	工人；工作者
+
+3、家庭物品
+
+basket	篮子
+bed	床
+box	盒子，箱子
+bottle	瓶子
+brush	刷子
+chair	椅子
+can	(美）罐头，罐子
+candle	蜡烛
+clock	钟
+cover	盖子，罩
+desk	书桌；办公桌
+drawer	抽屉
+furniture	家具
+handbag	手提包
+iron	熨斗
+key	钥匙，键
+lamp	灯
+lock	锁
+mirror	镜子
+photo=photograph	照片
+picture	图片,画片，照片
+rope	粗绳；绳索
+rubbish	垃圾；废物
+safe	保险箱
+shelf	架子(复shelves)
+shower	淋浴
+soap	肥皂
+sofa	沙发
+stick	木棍；手杖；枝条
+table	桌子
+thing	事；东西，物（复数）局面；
+thread	线
+toothbrush	牙刷
+toothpaste	牙膏
+towel	浴巾，毛巾
+umbrella	雨伞；伞
+watch	手表
+
+
+4、文具与玩具
+
+
+bag	书包；提包；口袋
+ball	球
+balloon	气球
+card	纸牌
+chess	棋
+crayon	蜡笔
+diary	日记；日记簿
+dictionary	字典，词典
+doll	玩偶，玩具娃娃
+eraser	橡皮
+gift	礼物；赠品
+gun	枪
+ink	墨水
+kite	风筝
+notebook	笔记簿
+paper	纸
+pen	钢笔
+pencil	铅笔
+postcard	明信片
+ruler	尺；直尺
+schoolbag	书包
+stamp	邮票
+tape	录音带；带子
+toy	玩具
+tool	工具
+
+
+5、学校设施
+
+
+
+bell	钟；铃;钟（铃）声；钟形物
+blackboard	黑板
+chalk	粉笔
+class	班级
+classroom	教室
+desk	书桌，写字台
+group	小组
+lab =laboratory	实验室
+lesson	课，教训
+office	办公室；办公楼
+playground	运动场；操场
+row	一排；一行；一列
+school	学校
+seat	座位
+
+
+6、教学术语
+
+
+accent	口音，重音	
+answer	回答；答复
+composition	作文，作曲
+conversation	对话
+dialogue	对话
+difficulty	困难，难处
+discussion	讨论
+exam = examination	考试
+example	例子
+fact	事实, 事件
+form	表，表格；
+grade	分数；成绩；
+grammar	语法	
+handwriting	字迹
+homework	家庭作业
+knowledge	知识，学问
+language	语言	
+letter	字母	
+meaning	意思；含义；意图
+method	方法，办法
+mistake	错误
+note	笔记；便笺
+point	要点
+practice	实践；练习
+progress	进步；进展；发展；前进
+pronunciation	（单词或语言的）发音	
+point	要点
+question	问题
+reply	回复；答复
+research	研究；探讨
+review	回顾；温习；复习
+rule	规则
+score	得分
+search	搜寻；搜查；探索
+sentence	句子	
+speech	演讲	
+summary	摘要，概要
+term	学期
+test	测验
+title	标题，题目	
+topic	题目，话题	
+underline	下划线
+unit	单元
+word	词，单词；话
+
+
+7、科技教育
+
+
+clone	克隆
+development	发展
+download	下载（计算机用语）
+education	教育
+experiment	实验
+invention	发明物
+influence	影响
+information	信息，通知，消息
+machine	机器
+message	消息；信息
+robot	机器人
+technology	科学技术
+
+
+8、服装
+
+
+
+clothes	衣服，各种衣物
+coat	外套
+dress	女服,连衣裙
+jacket	短上衣，夹克衫
+jeans	牛仔裤
+overcoat	大衣
+raincoat	雨衣
+shirt	男衬衫
+shorts	（户外活动）短裤
+skirt	女裙
+sock	短袜
+sweater	毛线衣，厚运动衫
+T-shirt	T恤衫
+trousers	裤子
+
+
+9、颜色
+
+
+colour (美 color)	颜色，颜料；情调
+black	黑色；黑色的adj.
+blue	蓝色；蓝色的adj.
+brown	褐色；褐色的adj.
+green	绿色；绿色的adj.
+orange	橙色；橙色的adj.
+pink	粉红色；粉红色的adj.
+red	红色；红色的adj.
+white	白色；白色的adj.
+yellow	黄色；黄色的adj.
+
+
+10、诗歌戏剧、传媒(影视、广播、电脑、广告等)
+
+
+
+act	行为,举动
+advertisement	广告
+art	艺术；美术；艺术品
+cinema	电影院
+e-mail	电子邮件
+film	电影，胶卷
+Internet	互联网，因特网
+interview	采访
+movie	电影
+news	消息；新闻
+notice	通知，布告
+party	晚会
+programme(美program)	节目单；（电脑）程序
+role	角色
+story	故事
+tale	故事，传说；童话
+window	窗户；计算机的窗口
+website	网站，网点
+
+
+11、运动项目
+
+
+ball	球
+balloon	气球
+baseball	棒球
+basketball	篮球
+bike=bicycle	自行车
+chess	象棋
+club	俱乐部
+coach	教练
+exercise	练习；锻炼
+football	足球
+jump	跳；跃
+kick	踢，反冲
+race	(速度)竞赛
+ride	骑脚踏车或乘交通工具旅行
+sport	运动
+swim	游泳
+table tennis	乒乓球
+tennis	网球
+volleyball	排球
+walk	行走；步行
+
+12、疾病与伤痛
+
+accident	事故，意外的事
+ache	疼痛
+blind	失明
+burn	烧伤火、热或酸所造成的伤害或伤痕
+cancer	癌症
+cold	伤风；感冒
+cough	咳嗽
+cut	剪；切；割
+disease	疾病
+fever	发烧；发热
+flu	流感
+headache	头痛
+illness	疾病；生病；不健康
+problem	问题，难题
+toothache	牙疼
+trouble	问题，疾病；烦恼，麻烦
+wound	伤，伤害
+
+13、感觉与情感
+
+ache	疼痛
+attention	注意，关心
+care	照料，保护，小心
+cheer	欢呼;喝彩
+cheat	骗取，哄骗，作弊
+cry	喊叫;哭
+doubt	怀疑；疑惑
+emotion	感情，情感
+excuse	原谅；宽恕
+favorite	最受喜爱的(东西）
+fear	恐惧，害怕
+feeling	感觉，知觉，触觉
+fun	快乐；有趣的，令人愉快的
+greeting	祝贺
+hate	恨；讨厌
+hobby	嗜好，兴趣
+interest	兴趣，爱好
+joy	欢乐，高兴，乐趣
+laugh	笑；大笑；嘲笑
+love	爱；热爱；很喜欢
+pardon	原谅，宽恕
+peace	和平；安宁；静寂
+pity	怜悯；同情
+pleasure	愉快；快乐；高兴
+praise	赞扬，表扬
+pride	自豪，骄傲
+regard	关心，注意，致意，问候，尊敬
+respect	尊敬，尊重
+regret	可惜，遗憾；痛惜；哀悼
+shame	羞愧，惭愧
+silence	寂静；沉默
+sense	感觉，判断力
+smell	气味；嗅觉
+smile	微笑
+surprise	使吃惊；景气；令人意想不到的事情
+sweet	甜蜜
+taste	尝；品尝；品味
+thank	感谢；谢意
+touch	碰，触摸
+wish	愿望;祝愿
+wonder	惊讶，惊叹；奇迹
+worry	烦恼；担忧；发怒；困扰
+victory	胜利
+
+
+14、食品(肉食、蔬菜、水果等)
+
+
+
+apple	苹果
+banana	香蕉
+beef	牛肉
+biscuit	饼干
+bread	面包
+butter	黄油
+cabbage	卷心菜
+cake	蛋糕；糕饼类食品
+candy	糖果
+cheese	奶酪
+chicken	鸡肉
+chocolate	巧克力
+dumpling	饺子
+egg	蛋；鸡蛋
+food	食物，食品
+fruit	水果
+grape	葡萄
+ham	火腿
+hamburger	汉堡
+lamb	羊肉
+meat	（食用的）肉
+noodle	面条（常用pl.）
+oil	油
+orange	橙子
+pancake	薄煎饼
+pear	梨
+pie	馅饼
+pork	猪肉
+potato	土豆
+rice	稻米,米饭
+salad	沙拉
+salt	盐
+sandwich	三明治
+sausage	香肠
+strawberry	草莓
+sugar	糖
+sweet	甜食；蜜饯；甜点；糖果；
+tomato	西红柿
+vegetable	植物；蔬菜
+watermelon	西瓜
+
+
+15、三餐及餐具、菜单
+
+
+bowl	碗；钵
+breakfast	早餐
+chopsticks	筷子
+cooker	厨具
+cup	小茶杯，一杯的容量
+dinner	正餐；晚餐
+dish	盘，碟，装菜盘
+fork	叉；餐叉
+glass	玻璃杯；玻璃
+lunch	午餐
+knife	刀，匕首 (pl. knives)
+meal	一餐(饭)
+menu	菜单
+picnic	野餐
+plate	盘子
+service	（旅馆等中的）上菜、上饮料、仆役等服务
+spoon	勺子
+supper	晚餐
+
+
+16、城市设施
+
+
+
+bank	银行
+capital	省会，首都
+church	教堂
+city	城市；都市；市
+cinema	电影院，电影
+college	专科学校；学院
+company	公司
+factory	工厂
+fair	集市；庙会；展览会
+farm	农场；农庄
+flat	楼中一套房间；公寓（常用复数）
+garden	花园，果园，菜园
+government	政府
+gym=(gymnasium)	体育馆
+hometown	家乡，故乡
+hospital	医院
+hotel	旅馆
+library	图书馆
+market	市场，集市
+museum	博物馆
+palace	皇宫，宫殿
+park	公园；停车
+place	地方，处所
+pond	池塘
+pool	水塘
+prison	监狱
+restaurant	餐馆；饭店
+set	设备，设置
+shop	商店
+square	广场
+stand	看台，台；坛；摊
+state	（构成联邦共和国的）州；邦
+store	商店
+supermarket	超级市场
+theatre (美theater)	戏院，剧院；电影院 (= 英cinema)
+toilet	厕所
+tower	塔，高楼
+university	大学
+town	镇；城镇；市镇
+zoo	动物园
+
+
+17、交通设施
+
+
+airline	航空公司
+airport	飞机场
+bridge	桥
+cross	交叉；十字形的东西
+direction	方向
+flag	旗；标志
+mark	记号；痕迹
+path	小路，小径
+railway	铁路；铁轨
+road	路
+station	站；所；台
+stop	车站
+street	街；街道
+traffic	交通；交通量
+way	道路
+
+
+18、旅游
+
+
+airline	航空公司
+beach	海滩；湖滩
+camp	营地
+country	国家
+map	地图
+package	包裹
+picnic	（自带食物的）郊游野餐，聚餐
+sail	帆；航行
+passport	护照
+sight	视力，景物
+tent	帐篷
+tour	旅行；旅游；参观；游览
+travel	旅行；游历
+trip	旅行
+visit	参观；游览;拜访；访问
+
+
+19、时期
+
+
+
+age	时代，时期，年龄
+century	世纪
+future	未来，将来
+past	过去
+period	时期
+present	现在
+time	时间；时期；钟点；次，回
+year	年
+
+20、月份
+
+month	月,月份
+January	一月
+February	二月
+March	三月
+April	四月
+May	五月
+June	六月
+July	七月
+August	八月
+September	九月
+October	十月
+November	十一月
+December	十二月
+
+21、时分秒
+
+morning	早晨；上午
+noon	中午
+afternoon	下午；午后
+evening	傍晚；黄昏；晚上
+night	夜； 夜晚
+o’clock	点钟
+hour	小时；点钟
+minute	分钟
+second	秒
+moment	瞬间；片刻
+while	一会儿；一段时间
+
+22、大洋大洲
+
+America	美洲
+Asia	亚洲
+Atlantic	大西洋
+Europe	欧洲
+Pacific	太平洋
+
+23、方位、空间
+
+address	住址；地址；通讯处
+area	地区，面积
+bottom	底部
+break	间隙
+center / centre	中心；中央
+corner	角，角落，拐角
+dark	暗处
+east	东，东部
+edge	边缘
+end	结束；终止；穷尽；到…..的尽头
+first	开始，开端
+floor	楼层；层
+front	前面的；前部的；前面；前部；前线
+last	最后
+left	左边；左面；左方
+level	水平线，水平
+line	（人或物之）排；列
+middle	中间；当中；中级的
+north	北方
+outside	在外面
+position	位置，形势
+side	边，旁边，面，侧面
+south	南方
+space	空间
+surface	表面
+there	那里，那儿
+top	顶；上部
+west	西方
+
+24、虫、鸟、鱼
+
+bee	蜜蜂
+bird	鸟
+butterfly	蝴蝶
+chicken	鸡
+duck	鸭子
+fish	鱼，鱼肉；钓鱼
+fly	苍蝇
+goose(pl.geese)	鹅
+hen	母鸡
+whale	鲸鱼
+wing	翅膀，翼
+
+25、量
+
+copy	一本（份、册…）；抄本，副本
+degree	度数
+drop	滴
+inch	英寸
+kilo = kilogram	公斤，千克
+kilometre (美kilometer)	公里，千米
+kind	种类
+meter, 英 metre	米；公尺
+mile	英里
+once	一次；一度
+package	（尤指包装好或密封的容器）一包，一袋，一盒
+pair	一双；一队
+passage	（文章等的）一节，一段
+piece	一（片，张，件）
+pound	英镑
+row	一（排）；一（行）
+sort	种类；类别
+ton	（重量单位）吨
+weight	重量，体重
+
+26、交易
+
+business	商业，买卖，交易
+cost	价格
+deal	协议，交易
+fair	展览会；市集
+industry	工业，企业
+list	一览表，清单
+sale	出售；销售
+show	展览；展览会
+supply	供给，补给；供应品
+total	总计，合计
+trade	交易，贸易
+value	价值，价格
+
+
+27、物质材料
+
+
+
+board	甲板、木板
+chalk	粉笔
+coal	煤
+fat	脂肪
+fire	火
+glass	玻璃
+gold	金子，黄金
+ice	冰
+iron	铸铁
+metal	金属
+matter	物质
+object	物，物体
+oil	油类；油
+rock	岩石
+paint	油漆；颜料
+rubber	橡皮；橡胶
+sand	沙；沙子
+silk	（蚕）丝；绸；丝织品
+silver	银
+steel	钢，钢铁
+stone	石头；石块
+
+28、动作
+
+call	喊,叫;电话,通话
+control	控制
+discovery	发现
+fight	打架，斗争
+help	帮助
+hit	打，击；
+hurry	赶紧，急忙
+idea	计划；计策；主意；想法；意见
+increase	增长
+instruction	教导，指令，命令
+introduction	介绍，引见
+joke	笑话，玩笑
+kiss	吻，轻拂
+knock	敲，打，击
+mention	提及，关于
+offer	提供，提议，出价，意图
+pull	拉力，引力
+push	推
+repair	修理，修补
+sail	航海，航行
+shout	呼喊
+smoke	吸烟；抽烟
+speech	演讲
+stay	逗留，停止
+survey	调查，勘测，检查
+swing	摇摆，摇动
+wash	洗涤
+talk	谈话，空谈，演讲
+use	使用，利用，应用
+
+29、其他
+
+advantage	优点
+age	年龄,年纪
+danger	危险
+friendship	友谊，友爱
+gesture	手势
+hope	希望
+luck	幸运
+memory	记忆力，记得的事
+name	名字，姓名，名称
+need	需要；要；缺乏
+noise	噪音；喧闹声；嘈杂声
+part	部分
+riddle	谜语
+same	同样的事
+secret	秘密，秘诀
+sound	声；声音
+
