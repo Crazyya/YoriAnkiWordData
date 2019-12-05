@@ -34,4 +34,6 @@ grandfather
 使用前需要从网上下载一份词汇表文档，项目中有份小升初词汇表word文件，把word文件中的文本全选复制粘贴到一个新建的txt
 中，之后拖动此txt文件到GenerateWords上后会自动生成一个words.txt文件，再将此文件拖动到GenerateImportData上就能产生需要的导入文件。
 
+如有其它需求或更好的意见请在issues中留言
+
 所有示例都在项目中，如需使用请勿宣传T.T
